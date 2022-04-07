@@ -1,0 +1,51 @@
+.layout-3{
+    background-color:rgba(239, 235, 230, 0.969);
+    padding: 30px;
+}
+.logo{
+    height: 100px;
+    background-color: rgb(74, 74, 74);
+    color:white;
+    line-height: 92px;
+    padding-left: 50px;
+
+}
+.container{
+    overflow: hidden;
+}
+.navigation{
+float:left;
+}
+.header{
+    height:100px;
+    background-color: rgb(74, 74, 74);
+    height:200px;
+    width:50%;
+    float:right;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 150px;
+    color: white;
+
+}
+.body-area{
+    overflow: hidden;
+}
+.body{
+    height:500px;
+    background-color:rgb(74, 74, 74) ;
+    text-align: center;
+    color: white;
+    line-height: 450px;
+    width:50%;
+    float:right;
+    margin-top: 10px;
+    
+}
+.footer{
+    height:100px;
+    background-color: rgb(74, 74, 74);
+    text-align: center;
+    color: white;
+    line-height: 100px;
+}
